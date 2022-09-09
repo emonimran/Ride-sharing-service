@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.registration{
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+
+
+.navbar .navbar-collapse .nav-item .active{
+    color: red;
+}
+
+.navbar .navbar-brand {
+    color: red;
+    font-weight: 900;
+    font-size: 200%;
+}
+
+
+.navbar .navbar-brand:hover {
+    color: orangered;
+}
+
+.navbar .navbar-brand span{
+    color: red;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    line-height: 0.5;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+ 
+.card-registration .select-arrow {
+    top: 13px;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.registration{
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+
+
+.navbar .navbar-collapse .nav-item .active{
+    color: red;
+}
+
+.navbar .navbar-brand {
+    color: red;
+    font-weight: 900;
+    font-size: 200%;
+}
+
+
+.navbar .navbar-brand:hover {
+    color: orangered;
+}
+
+.navbar .navbar-brand span{
+    color: red;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    line-height: 0.5;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+ 
+.card-registration .select-arrow {
+    top: 13px;
+>>>>>>> 6066084633d658f09b96c744658f6e6299f1c7d9
+    }

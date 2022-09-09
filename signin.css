@@ -1,0 +1,128 @@
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar .navbar-brand {
+  color: red;
+  font-weight: 900;
+  font-size: 200%;
+}
+
+
+.navbar-brand:hover {
+  color: orangered;
+}
+
+.signin-box{
+  width: 400px;
+}
+
+.form-input {
+  width: 350px;
+  height: 35px;
+  border: none;
+  background-color:#e8f0fe;
+}
+
+.signin-btn{
+  width: 350px;
+}
+
+.register-btn{
+  width: 400px;
+}
+
+@media screen and (max-width: 480px) {
+  .signin-box {
+    width: 300px;
+  }
+  .form-input {
+    width: 250px;
+    height: 35px;
+    border: none;
+    background-color:#e8f0fe;
+  }
+  .signin-btn{
+    width: 250px;
+  }
+  .register-btn{
+    width: 250px;
+  }
+=======
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar .navbar-brand {
+  color: red;
+  font-weight: 900;
+  font-size: 200%;
+}
+
+
+.navbar-brand:hover {
+  color: orangered;
+}
+
+.signin-box{
+  width: 400px;
+}
+
+.form-input {
+  width: 350px;
+  height: 35px;
+  border: none;
+  background-color:#e8f0fe;
+}
+
+.signin-btn{
+  width: 350px;
+}
+
+.register-btn{
+  width: 400px;
+}
+
+@media screen and (max-width: 480px) {
+  .signin-box {
+    width: 300px;
+  }
+  .form-input {
+    width: 250px;
+    height: 35px;
+    border: none;
+    background-color:#e8f0fe;
+  }
+  .signin-btn{
+    width: 250px;
+  }
+  .register-btn{
+    width: 250px;
+  }
+>>>>>>> 6066084633d658f09b96c744658f6e6299f1c7d9
+}

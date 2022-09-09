@@ -1,0 +1,140 @@
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+  .navbar .navbar-brand {
+    color: red;
+    font-weight: 900;
+    font-size: 200%;
+  }
+  
+  
+  .navbar-brand:hover {
+    color: orangered;
+  }
+
+  .form-container form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background: #fff;
+    margin: 0 auto 0 auto;
+  }
+
+  .divider {
+    background-color: red;
+    padding: 2px;
+    width: 40%;
+  }
+  .input-box {
+    flex: 1 1 7rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .input-box span{
+    font-weight: 500;
+  }
+
+  .input-box input {
+    padding: 7px;
+    outline: none;
+    border: none;
+    background: #f7f7f7;
+    border-radius: 0.5rem;
+    font-size: 1 rem;
+  }
+
+  .btn-rent {
+    width: 100%;
+  }
+
+  .card:hover{
+    transform: scale(1.01);
+    box-shadow: 0 0 2px red;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+  .navbar .navbar-brand {
+    color: red;
+    font-weight: 900;
+    font-size: 200%;
+  }
+  
+  
+  .navbar-brand:hover {
+    color: orangered;
+  }
+
+  .form-container form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background: #fff;
+    margin: 0 auto 0 auto;
+  }
+
+  .divider {
+    background-color: red;
+    padding: 2px;
+    width: 40%;
+  }
+  .input-box {
+    flex: 1 1 7rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .input-box span{
+    font-weight: 500;
+  }
+
+  .input-box input {
+    padding: 7px;
+    outline: none;
+    border: none;
+    background: #f7f7f7;
+    border-radius: 0.5rem;
+    font-size: 1 rem;
+  }
+
+  .btn-rent {
+    width: 100%;
+  }
+
+  .card:hover{
+    transform: scale(1.01);
+    box-shadow: 0 0 2px red;
+>>>>>>> 6066084633d658f09b96c744658f6e6299f1c7d9
+  }
